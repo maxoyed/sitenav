@@ -1,0 +1,1 @@
+This is a project that aim to build a site navigation for developers. It includes many useful websites such as programming tutorial, design resource, online tools, IDEs, Linux distributions and developer's communities.
